@@ -34,4 +34,4 @@ EarMode is in closed testing. Want early access? Open an issue or get in touch a
 
 ---
 
-<p align="center"><sub>Made in Munich · Minimal black, one sapphire accent.</sub></p>
+<p align="center"><sub>A <b>Koinon</b> app · Made in Munich</sub></p>
