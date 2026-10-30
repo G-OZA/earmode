@@ -30,7 +30,7 @@ No ads. No accounts. No data collected. EarMode works fully offline. Read the [p
 
 ## Status
 
-EarMode is in closed testing. Want early access? Open an issue or get in touch and I'll add you as a tester.
+EarMode is in closed testing. Want early access? Email <a href="mailto:koinonhq@proton.me">koinonhq@proton.me</a> and you can join as a tester.
 
 ---
 
