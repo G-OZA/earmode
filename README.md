@@ -34,4 +34,4 @@ EarMode is in closed testing. Want early access? Email <a href="mailto:koinonhq@
 
 ---
 
-<p align="center"><sub>A <b>Koinon</b> app · Made in Munich</sub></p>
+<p align="center"><sub>A <b>Koinon</b> app · Made in Europe</sub></p>
